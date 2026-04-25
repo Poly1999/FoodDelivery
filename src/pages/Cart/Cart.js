@@ -40,6 +40,7 @@ const Cart = () => {
               </div>
             );
           }
+          return null;
         })}
       </div>
 
